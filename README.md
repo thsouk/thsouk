@@ -2,14 +2,13 @@
 
 **Data Scientist specializing in AI, Machine Learning.**  
 📍 Based in Athens, Greece.
-💼 Currently working at **EY (Ernst & Young)** in the AI & Data Center of Excellence.
-🚀 Passionate about building scalable AI solutions
+ Currently working at **EY (Ernst & Young)** in the AI & Data Center of Excellence. Passionate about building scalable AI solutions
 
 ---
 
 ## Tech Stack & Tools
 
-## 🛠 Programming Languages, Frameworks, Tools, and Platforms
+## Programming Languages, Frameworks, Tools, and Platforms
 
 ### Languages
 *"Building the foundation with structured thinking and efficient coding."*
