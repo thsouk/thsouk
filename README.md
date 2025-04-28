@@ -66,7 +66,7 @@
 ---
 
 ## Fun Fact
-I love coffee — seriously, **do not disturb before I have my first cup of joe!**
+I love coffee — seriously, **do not disturb me before I have my first cup of joe!**
 
 
 <!--
