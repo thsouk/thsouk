@@ -1,17 +1,17 @@
 # Hi, I'm Thanos Soukaras 👋
 
-🎯 **Data Scientist specializing in AI, Machine Learning.**  
+**Data Scientist specializing in AI, Machine Learning.**  
 📍 Based in Athens, Greece.
 💼 Currently working at **EY (Ernst & Young)** in the AI & Data Center of Excellence.
 🚀 Passionate about building scalable AI solutions
 
 ---
 
-## 🚀 Tech Stack & Tools
+## Tech Stack & Tools
 
 ## 🛠 Programming Languages, Frameworks, Tools, and Platforms
 
-### 📚 Languages
+### Languages
 *"Building the foundation with structured thinking and efficient coding."*
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
@@ -23,7 +23,7 @@
 
 ---
 
-### 🔥 Machine Learning and Deep Learning Frameworks
+### Machine Learning and Deep Learning Frameworks
 *"Teaching machines to think, predict, and transform data into decisions."*
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
@@ -33,7 +33,7 @@
 
 ---
 
-### 🧰 Tools
+### Tools
 *"Bringing ideas to life with the right tools at my fingertips."*
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
@@ -42,7 +42,7 @@
 
 ---
 
-### ☁️ Cloud Platforms and Big Data
+### Cloud Platforms and Big Data
 *"Where scalability meets innovation in the cloud."*
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
@@ -51,7 +51,7 @@
 
 ---
 
-### 🛡️ Future Learning
+### Future Learning
 *"Never stop learning, never stop building."*
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
@@ -60,13 +60,13 @@
 
 
 
-## 📫 How to reach me
+## How to reach me
 - **Email**: thanossoukaras@gmail.com
 - **LinkedIn**: [linkedin.com/in/thanos-soukaras](https://linkedin.com/in/thanos-soukaras)
 
 ---
 
-## ✨ Fun Fact
+## Fun Fact
 I love coffee — seriously, **do not disturb before I have my first cup of joe!**
 
 
