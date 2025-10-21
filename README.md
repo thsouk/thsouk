@@ -2,7 +2,8 @@
 
 **Data Scientist specializing in AI, Machine Learning.**  
 📍 Based in The Hague, Netherlands.
- Currently working at **New Black** as a Data Science. Passionate about building scalable AI solutions.
+
+ Currently working at **New Black** as a Data Scientist. Passionate about building scalable AI solutions.
 
 ---
 
