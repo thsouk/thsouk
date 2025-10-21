@@ -1,8 +1,8 @@
 # Hi, I'm Thanos Soukaras 👋
 
 **Data Scientist specializing in AI, Machine Learning.**  
-📍 Based in Athens, Greece.
- Currently working at **EY (Ernst & Young)** in the AI & Data Center of Excellence. Passionate about building scalable AI solutions
+📍 Based in The Hague, Netherlands.
+ Currently working at **New Black** as a Data Science. Passionate about building scalable AI solutions.
 
 ---
 
